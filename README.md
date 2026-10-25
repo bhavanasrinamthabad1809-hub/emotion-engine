@@ -42,4 +42,5 @@ Routing: This was the hardest part. I fixed collision errors, deleted old leftov
 art time :- added a dancer in middle and showed in images what are the switches did not much more cause i want the main attention to be ghungroo 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06eec810-ab98-4a46-891a-e49467a94269" />
 
+flimware is still left yahh
 
