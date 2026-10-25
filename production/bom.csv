@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4, C5, C6",1206,6,100nf,
+"D1, D2, D3, D4, D5, D6",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,6,SK6812MINI-E,
+"R1, R2",1206,2,330ohm,
+"SW1, SW2, SW3, SW4, SW5",SW_PUSH-12mm,5,SW_Push,
+SW7,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch_MP,
+U1,XIAO ESP32-S3,1,XIAO-ESP32-S3,
