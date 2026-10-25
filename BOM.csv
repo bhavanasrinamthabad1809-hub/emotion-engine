@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 switches,1,amazon,$3.24,$3.24,https://amzn.in/d/0ap4lnfj
 resistor,1,robu .in,$0.10,$0.10,https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/
 capactior,1,robu .in,$1.26,$1.26,https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/
+esp32-s3,1,robu .in,$14.75,$14.75,https://amzn.in/d/0gQRRsHi
 Estimated total shipping,1,,,$0.00,
