@@ -93,7 +93,17 @@ entry 2
 
 i changed the plan to esp32-s3 and polished my idea then i choosed components started wiring them then footprints and then pcb then
 
-edge cut then arrange the parts the way i wanted then route the pcb most my time was taken here like i could not even imagine i would take 3 hours
+edge cut then arrange the parts the way i wanted then route the pcb most my time was taken here like i could not even imagine i would take  that many hours
+
+it happend cause i added in chain right thats so when i am trying  to move one side the other side also shows like connection it was one of the why i took this much
+
+and the errors were also high around 60 plus so it more time
+
+![Screenshot 2026-10-24 205243](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/b452153997105c1f13bd2acea1ad3c3b8ab906f19e45ebf2d4d24656ae3677ad.png)
+
+![Screenshot 2026-10-25 173902](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/5a859838e2ab7aaf373665104ed1ee3df1f54a00c1d796fac8704cca91c585d5.png)
+
+![Screenshot 2026-10-25 215532](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/dac559238ad46db9a2eaae031dae052898cc07fa935ecb765b73cdd88da2eb4a.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/c77de57a-d61b-446b-9765-2afb66c23cdc/video.mp4)
 
