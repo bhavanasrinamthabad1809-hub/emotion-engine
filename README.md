@@ -7,6 +7,8 @@ I’ve been learning Kathak for a while, and the best part is how a dancer can s
 
 It’s a circuit board shaped like a lotus. Each petal has a button, and each button is one emotion: love (Shringara), courage (Veera), sorrow (Karuna), joy (Hasya) and peace (Shanta). Press one, and an LED behind it lights up in that emotion’s color.
 
+you can select your mood and music plays according to that 
+
 if you see a khatak dancer performing live it is  just completely different world if just feels like divine feminism you could  never get away the eyes 
 
  i wish i did not stopped  it high school took all my time. 
@@ -23,6 +25,8 @@ if you see a khatak dancer performing live it is  just completely different worl
 Pressing a button tells a small chip which emotion I picked. The chip sends a color to the LEDs, and the light travels across the petals like a dancer’s footsteps. That’s tatkar, the stamping rhythm of Kathak. A knob in the corner is my laya control (tempo): turn it one way and the lights get slower (vilambit), the other way and they get faster (drut). In the middle there’s an amber LED called the diya, because every performance starts with lighting a lamp. It flickers like a real flame. Tiny bells (ghungroo) will hang from the petal tips so the board jingles when I move it.
 
 all the switches will play music according to your mood if your mood was sad the music starts from sad takes you into happy with the different  intensity of sound thats how your mood is going to light up as well .
+
+so it plays music according to your mood as some one who loves muscic and dance this is game changer for me 
 
 ## What I’m using, and why
 ## Part	Why
