@@ -27,6 +27,9 @@ Pressing a button tells a small chip which emotion I picked. The chip sends a co
 all the switches will play music according to your mood if your mood was sad the music starts from sad takes you into happy with the different  intensity of sound thats how your mood is going to light up as well .
 
 so it plays music according to your mood as some one who loves muscic and dance this is game changer for me 
+<img width="1170" height="912" alt="Gemini_Generated_Image_xlynp3xlynp3xlyn" src="https://github.com/user-attachments/assets/c69ff6a9-e973-4169-8a4b-46d757739551" />
+the dance character is not like that though more art is there just a reference as how i am gonna add ghungro
+
 
 ## What I’m using, and why
 ## Part	Why
@@ -42,7 +45,7 @@ EC11 rotary encoder	The tempo knob
 ## My progress
 
 Schematic: I drew the full circuit in KiCad: five buttons, the encoder, the LED chain, the diya on its own pin, and the capacitors and resistors. ERC came back clean.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b01a50d-19ff-4822-878c-f377d2190a9b" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-26 045200" src="https://github.com/user-attachments/assets/09bd6d03-a1f0-495b-a4b9-63eb4f7d8f96" />
 
 
 PCB: I designed my own lotus outline, placed all the parts in a , and put the LEDs and tiny parts on the back so the front stays clean for art.
@@ -57,5 +60,17 @@ Routing: This was the hardest part. I fixed collision errors, deleted old leftov
 art time :- added a dancer in middle and showed in images what are the switches did not much more cause i want the main attention to be ghungroo 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06eec810-ab98-4a46-891a-e49467a94269" />
 
-flimware is still left yahh
+## BOM
+
+| Component    | Quantity | Description         | Source                       | Price |
+| ------------ | -------: | ------------------- | ---------------------------- | ----: |
+| ESP32-S3    |        1 | Microcontroller     | [link] https://amzn.in/d/0gQRRsHi| $14.75  |
+| rotarty encoder |        1 | intensity control       | [link]https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/ | $1.22|
+| 330OHM Resistor |        1 | resistor    | [link]https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/ |$0.10|
+| switch  |        5 | User input buttons  | [link]https://amzn.in/d/0ap4lnfj | $3.24 |
+| capactior |        6 |   | [link]https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/ | $1.26 |
+| PCB          |        1 | Custom-designed PCB | [link]https://jlcpcb.com/capabilities/pcb-capabilities| $4|
+| knob  |  1 | | cap | [link] https://robu.in/product/potentiometer-knob-rotary-switch-cap-blue-color-pack-of-5-pcs/|$0.31 |
+| sk6812 | 8 | leds | [link] |   |
+
 
