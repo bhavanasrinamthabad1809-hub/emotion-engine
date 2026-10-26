@@ -60,17 +60,30 @@ Routing: This was the hardest part. I fixed collision errors, deleted old leftov
 art time :- added a dancer in middle and showed in images what are the switches did not much more cause i want the main attention to be ghungroo 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06eec810-ab98-4a46-891a-e49467a94269" />
 
+## flimware 
+going to use python and kmk
+
+
+
+
 ## BOM
 
 | Component    | Quantity | Description         | Source                       | Price |
 | ------------ | -------: | ------------------- | ---------------------------- | ----: |
-| ESP32-S3    |        1 | Microcontroller     | [link] https://amzn.in/d/0gQRRsHi| $14.75  |
+| ESP32-S3    |        1 | Microcontroller     |  https://amzn.in/d/0gQRRsHi| $14.75  |
 | rotarty encoder |        1 | intensity control       | [link]https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/ | $1.22|
-| 330OHM Resistor |        1 | resistor    | [link]https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/ |$0.10|
-| switch  |        5 | User input buttons  | [link]https://amzn.in/d/0ap4lnfj | $3.24 |
-| capactior |        6 |   | [link]https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/ | $1.26 |
+| 330OHM Resistor |        1 | resistor    | https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/ |$0.10|
+| switch  |        5 | User input buttons  | https://amzn.in/d/0ap4lnfj | $3.24 |
+| capactior |        6 |   | https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/ | $1.26 |
 | PCB          |        1 | Custom-designed PCB | [link]https://jlcpcb.com/capabilities/pcb-capabilities| $4|
-| knob  |  1 | | cap | [link] https://robu.in/product/potentiometer-knob-rotary-switch-cap-blue-color-pack-of-5-pcs/|$0.31 |
+| knob  |  1 | cap |  https://robu.in/product/potentiometer-knob-rotary-switch-cap-blue-color-pack-of-5-pcs/|$0.31 |
 | sk6812 | 8 | leds | [link] |   |
+
+
+## credits 
+
+all the images credit goes to pin 
+and the girls 
+
 
 
