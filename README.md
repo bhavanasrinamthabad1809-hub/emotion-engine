@@ -61,8 +61,10 @@ art time :- added a dancer in middle and showed in images what are the switches 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06eec810-ab98-4a46-891a-e49467a94269" />
 
 ## flimware 
-going to use python and kmk
+going to use python and circuit board 
+<img width="1920" height="1080" alt="Screenshot 2026-10-26 150434" src="https://github.com/user-attachments/assets/dc554a82-69d8-4259-b03a-c1d7efb49312" />
 
+will make more changes once  in build week cause i will understand how it works that time .
 
 
 
@@ -71,7 +73,7 @@ going to use python and kmk
 | Component    | Quantity | Description         | Source                       | Price |
 | ------------ | -------: | ------------------- | ---------------------------- | ----: |
 | ESP32-S3    |        1 | Microcontroller     |  https://amzn.in/d/0gQRRsHi| $14.75  |
-| rotarty encoder |        1 | intensity control       | [link]https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/ | $1.22|
+| rotarty encoder |        1 | intensity control       | https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/ | $1.22|
 | 330OHM Resistor |        1 | resistor    | https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/ |$0.10|
 | switch  |        5 | User input buttons  | https://amzn.in/d/0ap4lnfj | $3.24 |
 | capactior |        6 |   | https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/ | $1.26 |
