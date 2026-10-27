@@ -76,7 +76,7 @@ wrote the basic coding now cause i dont know how it works will make more changes
 | rotarty encoder |        1 | intensity control       | https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/ | $1.22|
 | 330OHM Resistor |        1 | resistor    | https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/ |$0.10|
 | switch  |        5 | User input buttons  | https://amzn.in/d/0ap4lnfj | $3.24 |
-| capactior |        6 |   | https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/ | $1.26 |
+| capactior |        6 | release electric enegry   | https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/ | $1.26 |
 | PCB          |        1 | Custom-designed PCB | [link]https://jlcpcb.com/capabilities/pcb-capabilities| $4|
 | knob  |  1 | cap |  https://robu.in/product/potentiometer-knob-rotary-switch-cap-blue-color-pack-of-5-pcs/|$0.31 |
 | sk6812 | 8 | leds | [link] |   |
