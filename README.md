@@ -3,7 +3,7 @@
 ## My Kathak Emotion Instrument
 The idea
 
-I’ve been learning Kathak for a while, and the best part is how a dancer can show a whole emotion with just her face, her hands and her feet. In Indian classical dance those emotions are called the rasas. So I thought: what if I could build a board you play with feelings?
+I’ve learnt Kathak for a while, and the best part is how a dancer can show a whole emotion with just her face, her hands and her feet. In Indian classical dance those emotions are called the rasas. So I thought: what if I could build a board you play with feelings?
 
 It’s a circuit board shaped like a lotus. Each petal has a button, and each button is one emotion: love (Shringara), courage (Veera), sorrow (Karuna), joy (Hasya) and peace (Shanta). Press one, and an LED behind it lights up in that emotion’s color.
 
@@ -61,10 +61,10 @@ art time :- added a dancer in middle and showed in images what are the switches 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06eec810-ab98-4a46-891a-e49467a94269" />
 
 ## flimware 
-going to use python and circuit board 
+going to use circuit board 
 <img width="1920" height="1080" alt="Screenshot 2026-10-26 150434" src="https://github.com/user-attachments/assets/dc554a82-69d8-4259-b03a-c1d7efb49312" />
 
-will make more changes once  in build week cause i will understand how it works that time .
+wrote the basic coding now cause i dont know how it works will make more changes once it arrives .
 
 
 
