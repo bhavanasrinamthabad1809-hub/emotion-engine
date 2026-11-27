@@ -45,7 +45,7 @@ same pcb can be used like this
 
 ## My progress
 
-Schematic: I drew the full circuit in KiCad: five buttons, the encoder, the LED chain, the diya on its own pin, and the capacitors and resistors. ERC came back clean.
+##Schematic: I drew the full circuit in KiCad: five buttons, the encoder, the LED chain, the diya on its own pin, and the capacitors and resistors. ERC came back clean.
 <img width="1647" height="908" alt="image" src="https://github.com/user-attachments/assets/9bb4036a-02c9-4f8a-90bf-16a521c43357" />
 
 
