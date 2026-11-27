@@ -39,8 +39,8 @@ EC11 rotary encoder	The tempo knob
 
 ## idea 2 
 same pcb can be used like this 
+   [link](https://www.instagram.com/reel/DeyPcHtpAY9/?utm_source=ig_web_copy_link&cnvx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==)
 
-https://www.instagram.com/reel/DeyPcHtpAY9/?utm_source=ig_web_copy_link&cnvx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==
 
 
 ## My progress
