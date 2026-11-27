@@ -141,7 +141,7 @@ and then i wanted to do filmware download kmk and started code.py still not full
 
 the extra time was for bom and for filmware figuring out i did not lapsed anything for it also 3d model i justed recored for one count for all 
 
-if there any mistakes i am sry it is 4 am 
+
 
 ![Screenshot 2026-10-26 014243](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/f071b4a8eccc2e3c02e0557dc2374aa7b468d6735a374814b9ff013ec0cd287f.png)
 
