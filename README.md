@@ -13,12 +13,10 @@ if you see a khatak dancer performing live it is  just completely different worl
 
  i wish i did not stopped  it high school took all my time. 
 
- here some photos take a moment to watch some khatak reels you will amaze by energy 
- <img width="736" height="980" alt="Dance Jewellery" src="https://github.com/user-attachments/assets/9d010258-3351-4a35-9c3c-0c51b055aaad" />
+ photo
 
  <img width="736" height="1308" alt="oh how i love to dance🪷" src="https://github.com/user-attachments/assets/72d127eb-9a5b-407c-a8e1-2eb13d41a1c1" />
  
-<img width="736" height="736" alt="Kathak🪕" src="https://github.com/user-attachments/assets/7a275e68-0901-4674-8485-02a2bb29d61a" />
 
 ## How it works
 
@@ -68,16 +66,17 @@ going to use arundino ide
 
 ## BOM
 
+
 | Component    | Quantity | Description         | Source                       | Price |
 | ------------ | -------: | ------------------- | ---------------------------- | ----: |
-| ESP32-S3    |        1 | Microcontroller     |  https://amzn.in/d/0gQRRsHi| $14.75  |
-| rotarty encoder |        1 | intensity control       | https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/ | $1.22|
-| 330OHM Resistor |        1 | resistor    | https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/ |$0.10|
-| switch  |        5 | User input buttons  | https://amzn.in/d/0ap4lnfj | $3.24 |
-| capactior |        6 | release electric enegry   | https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/ | $1.26 |
-| PCB          |        1 | Custom-designed PCB | [link]https://jlcpcb.com/capabilities/pcb-capabilities| $4|
-| knob  |  1 | cap |  https://robu.in/product/potentiometer-knob-rotary-switch-cap-blue-color-pack-of-5-pcs/|$0.31 |
-| sk6812 | 8 | leds | [link] |   |
+| ESP32-s3     |        1 | Microcontroller     | [link](https://robu.in/product/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0/) | $12.82  |
+| switches |        1 | input   | [link](https://amzn.in/d/0ap4lnfj) |$3.24 |
+|  Resistor |        1 |  resistor    | [link](https://robu.in/product/330-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/) |$0.10 |
+| capactior  |        3 | current flow | [link](https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/) | $1.26 |
+| rotatry enconder |        1 | to control the vlolume  | [link](https://robu.in/product/hongyan-ec11h-7ce20p1zy20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/) | $1.21 |
+| PCB          |        1 | Custom-designed PCB | [link](https://zbotic.in/shop/)  | $10.21 |
+| knod | 1 | cap for encoder| [Link](https://robu.in/product/potentiometer-knob-rotary-switch-cap-blue-color-pack-of-5-pcs/) | $0.31 |
+| sk6812 mini-e | 1 | leds light | [Link](https://amzn.in/d/052zw8zG) | $4.31 |
 
 
 ## credits 
