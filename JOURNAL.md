@@ -173,7 +173,9 @@ if there any mistakes i am sry it is 4 am
 
 ![Screenshot 2026-11-27 142446](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/46aac48d2c18ae692cb165cc7d83f84ea92af46fa4fc48c179e3f3a57a2df23d.png)
 
-rewrote the flimware first i thought i would have different songs for different switches and moods and link spot api and all when i thought to just start out it seemed pretty big  and i am just okaish in python that great 
+rewrote the flimware first i thought i would have different songs for different switches and moods and link spotify api and all when i thought to just start out it seemed pretty big  and i am just okaish in python 
+
+i need to write the code in arduino  that i started to write it but i will finish that code in build week as meghana said we can do code in build week cause there will be board to test it out if the code running or out or not it will be easy for me . 
 
 ![Screenshot 2026-11-27 141639](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/2601dc1b6e4a87d61242ea49389902ca54d68b9285ae5c3b7234be0c0db362e5.png)
 
