@@ -5,7 +5,7 @@ The idea
 
 I’ve learnt Kathak for a while, and the best part is how a dancer can show a whole emotion with just her face, her hands and her feet. In Indian classical dance those emotions are called the rasas. So I thought: what if I could build a board you play with feelings?
 
-It’s a circuit board shaped like a lotus. Each petal has a button, and each button is one emotion: love (Shringara), courage (Veera), sorrow (Karuna), joy (Hasya) and peace (Shanta). Press one, and an LED behind it lights up in that emotion’s color.
+It’s a circuit board shaped like a hexagon near to flower shape. Each petal has a button, and each button is one emotion: love (Shringara), courage (Veera), sorrow (Karuna), joy (Hasya) and peace (Shanta). Press one, and an LED behind it lights up in that emotion’s color.
 
 you can select your mood and music plays according to that 
 
@@ -22,14 +22,12 @@ if you see a khatak dancer performing live it is  just completely different worl
 
 ## How it works
 
-Pressing a button tells a small chip which emotion I picked. The chip sends a color to the LEDs, and the light travels across the petals like a dancer’s footsteps. That’s tatkar, the stamping rhythm of Kathak. A knob in the corner is my laya control (tempo): turn it one way and the lights get slower (vilambit), the other way and they get faster (drut). In the middle there’s an amber LED called the diya, because every performance starts with lighting a lamp. It flickers like a real flame. Tiny bells (ghungroo) will hang from the petal tips so the board jingles when I move it.
+Pressing a button tells a small chip which emotion I picked. The chip sends a color to the LEDs, and the light travels across the petals like a dancer’s footsteps. That’s tatkar, the stamping rhythm of Kathak. A knob in the corner is my laya control (tempo): turn it one way and the lights get slower (vilambit), the other way and they get faster (drut). In the middle there’s an amber LED called the diya, because every performance starts with lighting a lamp. It flickers like a real flame. 
 
-all the switches will play music according to your mood if your mood was sad the music starts from sad takes you into happy with the different  intensity of sound thats how your mood is going to light up as well .
+all the switches will play music according to your mood .
 
 so it plays music according to your mood as some one who loves muscic and dance this is game changer for me 
-<img width="1170" height="912" alt="Gemini_Generated_Image_xlynp3xlynp3xlyn" src="https://github.com/user-attachments/assets/c69ff6a9-e973-4169-8a4b-46d757739551" />
-the dance character is not like that though more art is there just a reference as how i am gonna add ghungro
-
+ 
 
 ## What I’m using, and why
 ## Part	Why
@@ -45,11 +43,13 @@ EC11 rotary encoder	The tempo knob
 ## My progress
 
 Schematic: I drew the full circuit in KiCad: five buttons, the encoder, the LED chain, the diya on its own pin, and the capacitors and resistors. ERC came back clean.
-<img width="1920" height="1080" alt="Screenshot 2026-10-26 045200" src="https://github.com/user-attachments/assets/09bd6d03-a1f0-495b-a4b9-63eb4f7d8f96" />
+<img width="1647" height="908" alt="image" src="https://github.com/user-attachments/assets/9bb4036a-02c9-4f8a-90bf-16a521c43357" />
 
 
-PCB: I designed my own lotus outline, placed all the parts in a , and put the LEDs and tiny parts on the back so the front stays clean for art.
-<img width="1920" height="1080" alt="Screenshot 2026-10-25 204858" src="https://github.com/user-attachments/assets/27c8b49f-3f7d-4f6d-98e6-6e50e49b9521" />
+
+PCB: I designed my own hexagonal outline, placed all the parts in a , and put the LEDs and tiny parts on the back so the front stays clean for art.
+<img width="748" height="760" alt="image" src="https://github.com/user-attachments/assets/5117ccfc-a117-4ecd-aeb9-5ee2733ae331" />
+
 
 
 
@@ -57,14 +57,12 @@ Routing: This was the hardest part. I fixed collision errors, deleted old leftov
 <img width="1920" height="1080" alt="Screenshot 2026-10-25 195007" src="https://github.com/user-attachments/assets/3431c28d-f90c-492d-9cb7-794e15b95ed4" />
 
 
-art time :- added a dancer in middle and showed in images what are the switches did not much more cause i want the main attention to be ghungroo 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06eec810-ab98-4a46-891a-e49467a94269" />
+
 
 ## flimware 
-going to use circuit board 
-<img width="1920" height="1080" alt="Screenshot 2026-10-26 150434" src="https://github.com/user-attachments/assets/dc554a82-69d8-4259-b03a-c1d7efb49312" />
+going to use arundino ide
 
-wrote the basic coding now cause i dont know how it works will make more changes once it arrives .
+
 
 
 
