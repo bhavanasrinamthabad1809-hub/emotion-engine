@@ -17,7 +17,7 @@
 1. [2026-10-24: yahh entry 1](#2026-10-24-yahh-entry-1)
 2. [2026-10-25: entry 2](#2026-10-25-entry-2)
 3. [2026-10-25: then it was time to do the best part of the pcb is art](#2026-10-25-then-it-was-time-to-do-the-best-part-of-the-pcb-i)
-4. [2026-11-26: changed the shape of pcb](#2026-11-26-changed-the-shape-of-pcb)
+4. [2026-11-26: ![Screenshot 2026-11-27 030433](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/340f6152d29c2d28154f2f8dcb6fcb8507dba5a40591d51940f65baedf28675a.png)](#2026-11-26-screenshot-2026-11-27-030433httpshalflifehackclub)
 5. [2026-11-27: ![Screenshot 2026-11-27 142446](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/46aac48d2c18ae692cb165cc7d83f84ea92af46fa4fc48c179e3f3a57a2df23d.png)](#2026-11-27-screenshot-2026-11-27-142446httpshalflifehackclub)
 
 ## Design
@@ -159,9 +159,11 @@ if there any mistakes i am sry it is 4 am
 
 [Timelapse](https://lookout.hackclub.com/api/media/86a8cd83-9a20-4804-b84c-6f74836b1312/video.mp4)
 
-### 2026-11-26: changed the shape of pcb
+### 2026-11-26: ![Screenshot 2026-11-27 030433](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/340f6152d29c2d28154f2f8dcb6fcb8507dba5a40591d51940f65baedf28675a.png)
 
 **1.18h**
+
+![Screenshot 2026-11-27 030433](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/340f6152d29c2d28154f2f8dcb6fcb8507dba5a40591d51940f65baedf28675a.png)
 
 changed the shape of pcb 
 
