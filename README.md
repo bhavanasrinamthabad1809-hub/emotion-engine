@@ -51,7 +51,8 @@ same pcb can be used like this
 
 
 PCB: I designed my own hexagonal outline, placed all the parts in a , and put the LEDs and tiny parts on the back so the front stays clean for art.
-<img width="748" height="760" alt="image" src="https://github.com/user-attachments/assets/5117ccfc-a117-4ecd-aeb9-5ee2733ae331" />
+<img width="698" height="638" alt="image" src="https://github.com/user-attachments/assets/ae0fad6c-e645-4ba7-b320-e2a582a9332c" />
+
 
 
 
@@ -86,8 +87,8 @@ going to use arundino ide
 
 ## credits 
 
-all the images credit goes to pin 
-and the girls 
+ images credit goes to pin 
+and the girl
 
 
 
