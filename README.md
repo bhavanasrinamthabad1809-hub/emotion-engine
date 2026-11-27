@@ -37,6 +37,11 @@ EC11 rotary encoder	The tempo knob
 100 nF capacitors (1206)	Keep the LEDs’ power steady when they change color
 1206 size parts	Big enough for me to solder by hand
 
+## idea 2 
+same pcb can be used like this 
+
+https://www.instagram.com/reel/DeyPcHtpAY9/?utm_source=ig_web_copy_link&cnvx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==
+
 
 ## My progress
 
@@ -51,7 +56,7 @@ PCB: I designed my own hexagonal outline, placed all the parts in a , and put th
 
 
 
-Routing: This was the hardest part. I fixed collision errors, deleted old leftover traces, and rotated the XIAO so the USB-C port sits at the edge. At my last check there were about zero connections left.
+Routing: This was the hardest part. I fixed collision errors, deleted old leftover traces, and rotated the XIAO so the USB-C port sits at the edge. At my last check there were about zero connections error warnings zero left
 <img width="1920" height="1080" alt="Screenshot 2026-10-25 195007" src="https://github.com/user-attachments/assets/3431c28d-f90c-492d-9cb7-794e15b95ed4" />
 
 
